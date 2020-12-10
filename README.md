@@ -33,3 +33,4 @@
     <code><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask"/></code>
     <code><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></code>
 </div>
+![](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=4NUBlS)
