@@ -19,10 +19,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=4NUBlS&column=7" alt="profile"/>
 </div>
 <br>
-<div class="col-80">
+<div>
     <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=4NUBlS" alt="bad"/>
 </div>
-<div class="col-20">
+<div>
     <h2>📦 ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs 📦</h2>
     <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/></code>
     <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></code>
