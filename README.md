@@ -8,7 +8,8 @@
     <img src="https://raw.githubusercontent.com/4NUBlS/4NUBlS/master/assets/S.png" alt="S"/>
     <img src="https://raw.githubusercontent.com/4NUBlS/4NUBlS/master/assets/BOW.png" alt="BOW"/>
     <br>
-    <p>ℍ𝕀, 𝕀'𝕄 𝟜ℕ𝕌𝔹𝕝𝕊, 𝔸 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 🚀 𝔽ℝ𝕆𝕄 𝕋ℍ𝔸𝕀𝕃𝔸ℕ𝔻.</p>
+    <br>
+    <p>𝙃𝙄, 𝙄'𝙈 4𝙉𝙐𝘽𝙡𝙎, 𝘼 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍 🚀 𝙁𝙍𝙊𝙈 𝙏𝙃𝘼𝙄𝙇𝘼𝙉𝘿.</p>
 </div>
 
 ---
