@@ -19,5 +19,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=4NUBlS&column=7" alt="profile"/>
 </div>
 <div align="left">
-    <h2>ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs</h2>
+    <h2>📦 ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs 📦</h2>
 </div>
