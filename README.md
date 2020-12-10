@@ -15,3 +15,6 @@
 </div>
 
 ---
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=4NUBlS&column=7" alt="profile"/>
+</div>
