@@ -18,6 +18,9 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=4NUBlS&column=7" alt="profile"/>
 </div>
+<div align="right">
+    <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=4NUBlS" alt="bad"/>
+</div>
 <h2>📦 ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs 📦</h2>
 <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/></code>
 <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></code>
@@ -31,6 +34,3 @@
 <br>
 <code><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask"/></code>
 <code><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></code>
-<div align="right">
-    <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=4NUBlS" alt="bad"/>
-</div>
