@@ -18,8 +18,8 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=4NUBlS&column=7" alt="profile"/>
 </div>
-<br>
 <div>
+    <br>
     <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=4NUBlS" alt="bad"/>
 </div>
 <div>
