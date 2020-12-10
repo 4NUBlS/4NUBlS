@@ -10,7 +10,7 @@
     <br>
     <br>
     <p>𝐇𝐈, 𝐈'𝐌 𝟒𝐍𝐔𝐁𝐥𝐒, 𝐀 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 🚀 𝐅𝐑𝐎𝐌 𝐓𝐇𝐀𝐈𝐋𝐀𝐍𝐃.</p>
-    <br>
+    ![](https://visitor-badge.glitch.me/badge?page_id=4NUBlS.4NUBlS)
 </div>
 
 ---
