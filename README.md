@@ -7,6 +7,7 @@
     <img src="https://raw.githubusercontent.com/4NUBlS/4NUBlS/master/assets/I.png" alt="I"/>
     <img src="https://raw.githubusercontent.com/4NUBlS/4NUBlS/master/assets/S.png" alt="S"/>
     <img src="https://raw.githubusercontent.com/4NUBlS/4NUBlS/master/assets/BOW.png" alt="BOW"/>
+    <b>ℍ𝕀, 𝕀'𝕄 𝟜ℕ𝕌𝔹𝕝𝕊, 𝔸 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 🚀 𝔽ℝ𝕆𝕄 𝕋ℍ𝔸𝕀𝕃𝔸ℕ𝔻.</b>
 </div>
 
 ---
