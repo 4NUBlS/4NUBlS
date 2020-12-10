@@ -19,15 +19,19 @@
     <img src="https://github-profile-trophy.vercel.app/?username=4NUBlS&column=7" alt="profile"/>
 </div>
 <br>
-<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=4NUBlS" alt="bad"/>
-<h2>📦 ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs 📦</h2>
-<code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/></code>
-<code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></code>
-<code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></code>
-<code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/></code>
-<code><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git"/></code>
-<code><img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white" alt="apache"/></code>
-<code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></code>
-<code><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/></code>
-<code><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask"/></code>
-<code><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></code>
+<div class="col-50">
+    <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=4NUBlS" alt="bad"/>
+</div>
+<div class="col-50">
+    <h2>📦 ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs 📦</h2>
+    <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/></code>
+    <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></code>
+    <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></code>
+    <code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/></code>
+    <code><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git"/></code>
+    <code><img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white" alt="apache"/></code>
+    <code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></code>
+    <code><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/></code>
+    <code><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask"/></code>
+    <code><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></code>
+</div>
