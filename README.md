@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/4NUBlS/4NUBlS/master/assets/avatar_1.png" alt="4NUBlS" width="200" hight="200"/>
+<img align="left" src="https://raw.githubusercontent.com/4NUBlS/4NUBlS/master/assets/avatar_1.png" alt="4NUBlS" width="190" hight="190"/>
 <div align="center">
     <img src="https://raw.githubusercontent.com/4NUBlS/4NUBlS/master/assets/4.png" alt="4"/>
     <img src="https://raw.githubusercontent.com/4NUBlS/4NUBlS/master/assets/N.png" alt="N"/>
