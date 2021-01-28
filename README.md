@@ -41,6 +41,9 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4NUBlS" alt="stats"/>
 </div>
+<div>
+    <img src="https://raw.githubusercontent.com/4NUBlS/4NUBlS/master/assets/banner.png" alt="4NUBlS" width="" hight=""/>
+</div>
 
 ---
 <div align="center">
