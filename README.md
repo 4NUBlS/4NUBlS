@@ -37,6 +37,9 @@
     <code><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></code>
 </div>
 <br>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4NUBlS" alt="stats"/>
+</div>
 
 ---
 <div align="center">
