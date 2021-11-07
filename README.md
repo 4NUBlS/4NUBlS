@@ -40,7 +40,7 @@
 <br>
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4NUBlS" alt="stats"/>
-    <img align="right" src="https://raw.githubusercontent.com/4NUBlS/4NUBlS/master/assets/banner.png" alt="banner" width="515"/>
+    <img align="right" src="https://raw.githubusercontent.com/4NUBlS/4NUBlS/master/assets/banner.png" alt="banner" width="510"/>
 </div>
 
 ---
